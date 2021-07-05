@@ -1,4 +1,4 @@
-![Overview](https://github-readme-stats.vercel.app/api?username=sudovictor&include_all_commits=true&count_private=true&title_color=000000&text_color=FFFFFFF&bg_color=0,00ffff,FFC0CB,FFFFFF,FFC0CB,00FFFF)
+![Overview](https://github-readme-stats.vercel.app/api?username=sudovictor&include_all_commits=true&count_private=true&title_color=000000&text_color=FFFFFFF&bg_color=90,00ffff,FFC0CB,FFFFFF,FFC0CB,00FFFF)
 
 👋 Hi, I’m a Fullstack Developer.
 - 👀 I am studying Assembly, and Computer Forensics.
